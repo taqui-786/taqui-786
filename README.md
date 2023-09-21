@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mdtaqui.jhar@gmail.com**
 
-- ⚡ Fun fact **I love to learn new tech and code**
+- ⚡ Fun fact **I love to learn new tech and coding Skills**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
