@@ -2,9 +2,9 @@
 
 `Hanoi, Vietnam - 20/10/2023`
 
-<img src="https://cdn.weatherapi.com/weather/64x64/day/119.png"/>
+<img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/>
 
-Cloudy
+Patchy rain possible
 
 
 <table>
@@ -26,13 +26,13 @@ Cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.1 kph</td><td>6.1 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13.3 kph</td><td>18 kph</td><td>25.6 kph</td><td>28.8 kph</td><td>31.3 kph</td><td>27.4 kph</td><td>25.6 kph</td><td>31 kph</td><td>31.3 kph</td><td>29.5 kph</td><td>27.7 kph</td><td>27.4 kph</td><td>27.7 kph</td><td>26.3 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>23 kph</td>
+        <td>15.1 kph</td><td>6.8 kph</td><td>11.9 kph</td><td>10.8 kph</td><td>10.8 kph</td><td>12.2 kph</td><td>11.9 kph</td><td>13.3 kph</td><td>18 kph</td><td>25.6 kph</td><td>28.8 kph</td><td>31.3 kph</td><td>27.4 kph</td><td>25.6 kph</td><td>31 kph</td><td>31.3 kph</td><td>29.5 kph</td><td>27.7 kph</td><td>27.4 kph</td><td>27.7 kph</td><td>26.3 kph</td><td>25.9 kph</td><td>24.8 kph</td><td>23 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-19T17:25:21Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-19T18:28:54Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
