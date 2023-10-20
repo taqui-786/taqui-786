@@ -26,13 +26,13 @@ Partly cloudy
     </tr>
     <tr>
         <th>Wind</th>
-        <td>22.3 kph</td><td>19.1 kph</td><td>23.4 kph</td><td>21.6 kph</td><td>19.8 kph</td><td>18 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>16.6 kph</td><td>19.1 kph</td><td>20.2 kph</td><td>21.2 kph</td><td>19.1 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>9 kph</td><td>7.6 kph</td><td>7.9 kph</td>
+        <td>22.3 kph</td><td>13 kph</td><td>23.4 kph</td><td>21.6 kph</td><td>19.8 kph</td><td>18 kph</td><td>16.6 kph</td><td>16.6 kph</td><td>17.6 kph</td><td>17.6 kph</td><td>16.6 kph</td><td>14.8 kph</td><td>14.4 kph</td><td>16.6 kph</td><td>19.1 kph</td><td>20.2 kph</td><td>21.2 kph</td><td>19.1 kph</td><td>15.1 kph</td><td>13.3 kph</td><td>11.2 kph</td><td>9 kph</td><td>7.6 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
 
 <div align="right">
 
-*Updated at: 2023-10-20T17:23:53Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-20T18:26:27Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
