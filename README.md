@@ -22,7 +22,7 @@ Cloudy
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>25 °C</td><td>26 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>25.3 °C</td><td>26.8 °C</td><td>28.5 °C</td><td>29.9 °C</td><td>31.1 °C</td><td>32.1 °C</td><td>32.7 °C</td><td>32.8 °C</td><td>32 °C</td><td>30.7 °C</td><td>29.8 °C</td><td>29 °C</td><td>27.7 °C</td><td>26.9 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.6 °C</td>
+        <td>25 °C</td><td>27 °C</td><td>24.6 °C</td><td>24.5 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>24.4 °C</td><td>25.3 °C</td><td>26.8 °C</td><td>28.5 °C</td><td>29.9 °C</td><td>31.1 °C</td><td>32.1 °C</td><td>32.7 °C</td><td>32.8 °C</td><td>32 °C</td><td>30.7 °C</td><td>29.8 °C</td><td>29 °C</td><td>27.7 °C</td><td>26.9 °C</td><td>26.3 °C</td><td>25.9 °C</td><td>25.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
@@ -33,6 +33,6 @@ Cloudy
 
 <div align="right">
 
-*Updated at: 2023-10-25T17:24:41Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
+*Updated at: 2023-10-25T18:26:39Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
