@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **C++,Typescript and Java**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/taqui-786/taqui-786/issues)**
 
  ⚡ Fun fact **World first developer was a women**
  
@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
