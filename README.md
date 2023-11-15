@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Taqui+Imam!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from India</h3>
+<h3 align="center">A passionate software developer and tech Blog writer from India</h3>
 
 <br/>
 
@@ -45,7 +45,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>✨ My Contributions ✨</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" />
   
@@ -104,7 +104,5 @@ Patchy rain possible
 
 
 <div align="right">
-
-*Updated at: 2023-10-26T09:22:24Z - by **[huantt/weather-forecast](https://github.com/huantt/weather-forecast)***
 
 </div>
