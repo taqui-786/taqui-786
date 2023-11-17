@@ -107,4 +107,4 @@ Patchy rain possible
 <div align="right">
 
 </div>
-[![taqui-786's GitHub | Stats](https://stats.quine.sh/taqui-786/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=taqui-786)
+[![bap's Web3 | Identity](https://stats.quine.sh/bap/web3?theme=dark)](https://quine.sh)
