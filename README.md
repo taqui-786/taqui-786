@@ -49,7 +49,7 @@
   <br>
     [![taqui-786's GitHub | Stats](https://stats.quine.sh/taqui-786/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=taqui-786)
 <!--   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" /> -->
-  ![Snake animation](https://github.com/taqui-786/taqui-786/blob/output/github-contribution-grid-snake.svg)
+<!--   ![Snake animation](https://github.com/taqui-786/taqui-786/blob/output/github-contribution-grid-snake.svg) -->
   <br/><br/><br/>
 </div>
 
