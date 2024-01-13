@@ -61,7 +61,7 @@
 <br/><br/>
 <hr/>
 <div align="center">
-<img  src="https://github-readme-activity-graph.vercel.app/graph?username=taqui-786&theme=tokyo-night" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/taqui-786/taqui-786/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 <hr/>
 
